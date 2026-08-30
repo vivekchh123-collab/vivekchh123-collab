@@ -14,6 +14,9 @@
     <a href="https://www.leetcode.com/vivek_chaurasiya_14" target="_blank">
       <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
     </a>
+    <a href="https://unstop.com/u/vivekcha48723" target="_blank">
+      <img src="https://img.shields.io/badge/unstop-FFA116?style=for-the-badge&logo=unstop&logoColor=black" alt="Unstop" />
+    </a>
   </p>
 
   <p align="center">
